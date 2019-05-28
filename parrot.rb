@@ -3,5 +3,7 @@
 
 def parrot phrase = "Squawk!" 
   puts phrase
+elsif 
+ return phrase
 end
 
