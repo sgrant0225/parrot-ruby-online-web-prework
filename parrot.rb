@@ -7,3 +7,4 @@ def parrot
 end
 
 def parrot ("Pretty bird!") 
+  puts "Squawk!"
