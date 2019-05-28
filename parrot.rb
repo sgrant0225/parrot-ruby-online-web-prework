@@ -5,4 +5,4 @@ def parrot phrase = "Squawk!"
   puts phrase
 end
 
-puts "Squawk!"
+return "Squawk!"
